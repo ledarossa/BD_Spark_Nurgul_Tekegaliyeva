@@ -3,6 +3,7 @@
 
 ## 📌 Task Description
 This project is a Spark-based ETL job that processes restaurant and weather data, ensuring data accuracy and enrichment.
+Project files (scripts) excpet of the massive .csv-s are within the **ResetsWeather** directory.
 
 ### ✅ **Objectives**
 - Validate and correct missing latitude and longitude values using OpenCage Geocoding API.
